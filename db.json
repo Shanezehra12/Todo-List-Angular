@@ -1,0 +1,12 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "task_name": "buy fresh mangoes"
+    },
+    {
+      "id": 4,
+      "task_name": "complete the work the angular project"
+    }
+  ]
+}
